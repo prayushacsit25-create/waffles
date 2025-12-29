@@ -9,5 +9,5 @@ void main(){
         rev=rev*10+rem;
         num=num/10;
     }
-    printf("The reverse is:%d",rev);
+    printf("The reverse is:%d",rev);2
 }
